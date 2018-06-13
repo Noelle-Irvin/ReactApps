@@ -1,0 +1,14 @@
+.Comment{
+	max-width:600px;
+	margin:auto;
+	text-align:center;
+	border: 2px solid black;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.UserInfo{
+	margin-top: 20px;
+}
+.UserBadges{
+	margin-bottom: 20px;
+}
